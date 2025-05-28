@@ -1,4 +1,9 @@
-# v2.0
+# v3.0
 
-- Ultra optimization animation
-- Turn on animation even on low-end devices.
+- Speed ​​up phone startup.
+- Sensor acceleration.
+- Speed ​​up phone wake-up.
+- Improving memory handling.
+- Increase animation frames.
+- All animations are moving to GPU.
+- For Mediatek Helio users a special boost.
