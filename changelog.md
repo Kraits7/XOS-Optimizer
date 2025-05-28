@@ -1,3 +1,4 @@
-# vTest
+# v2.0
 
-- This test changelog.
+- Ultra optimization animation
+- Turn on animation even on low-end devices.
