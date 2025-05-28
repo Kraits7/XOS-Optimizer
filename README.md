@@ -10,3 +10,4 @@ This module optimizes XOS to the limit
 - **Cold CPU** – fix for throttling on Infinix Note/Hot.
 - **Fast touchscreen** – like in top smartphones.
 - **Long battery life** – disable XOS analytics collection.
+- **Turn on animation even on low-end devices** - animations are disabled on low-end devices
