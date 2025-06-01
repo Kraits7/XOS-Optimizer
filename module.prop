@@ -1,9 +1,9 @@
-id=tweakskraits
-name=Tweaks System
-version=v2.1
-versionCode=21
-author=Kraits
-description=Tweaks For System
+id=tweakskraitsmod
+name=Tweaks System MOD by leefshitz
+version=v99.99
+versionCode=99
+author=leefshitz
+description=Tweaks For System MOD by leefshitz
 updateJson=https://raw.githubusercontent.com/Kraits7/SystemTweaksForAndroid/refs/heads/main/update.json
 
 
