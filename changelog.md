@@ -7,3 +7,8 @@
 - Increase animation frames.
 - All animations are moving to GPU.
 - For Mediatek Helio users a special boost.
+
+#v99.99
+
+- Added AdBlock
+- Maybe more...
