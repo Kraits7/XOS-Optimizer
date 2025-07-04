@@ -1,9 +1,4 @@
-# v3.0
+# XOSOptimizer Reload
+# v0.1-Alpha
 
-- Speed ​​up phone startup.
-- Sensor acceleration.
-- Speed ​​up phone wake-up.
-- Improving memory handling.
-- Increase animation frames.
-- All animations are moving to GPU.
-- For Mediatek Helio users a special boost.
+- Completely new module
