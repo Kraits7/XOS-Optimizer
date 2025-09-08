@@ -1,4 +1,4 @@
 # XOSOptimizer Reload
-# v0.1-Alpha
+# Beta1
 
 - Completely new module
